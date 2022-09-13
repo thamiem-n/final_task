@@ -8,6 +8,13 @@ body{
       background-color:  aqua;
 }
 
+img{
+      width:800px;
+      height:500px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
 .nav-background {
       overflow: hidden;
       background-color: #333;
@@ -21,9 +28,9 @@ body{
       font-family: 'Base 02', sans-serif;
       font-size: 30px;
       padding: 14px 16px;
+      text-align: center;
       float: left;
       color: #f2f2f2;
-      text-align: center;
       text-decoration: none;
 }
 
